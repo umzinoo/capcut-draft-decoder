@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# never commit videos
+*.mp4
+*.m4a
+*.mov
+*.m4v
+CapCut Decoded/
